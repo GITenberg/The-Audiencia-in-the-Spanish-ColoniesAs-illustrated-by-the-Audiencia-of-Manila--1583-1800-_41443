@@ -1,0 +1,30 @@
+_repo: The-Audiencia-in-the-Spanish-ColoniesAs-illustrated-by-the-Audiencia-of-Manila--1583-1800-_41443
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41443-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Cunningham, Charles Henry
+    alias: Cunningham, Charles H. (Charles Henry)
+    birthdate: 1885
+    gutenberg_agent_id: '41185'
+    url: http://www.gutenberg.org/2009/agents/41185
+description: ''
+gutenberg_issued: '2012-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41443'
+  lccn: '21002907'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- History -- 1521-1812'
+- !lcsh 'Spain -- Colonies -- Administration'
+- !lcc 'JV'
+title: 'The Audiencia in the Spanish Colonies
+
+  As illustrated by the Audiencia of Manila (1583-1800)'
+url: http://www.gutenberg.org/ebooks/41443
